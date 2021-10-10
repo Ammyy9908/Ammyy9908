@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sumit</h1>
- <br>[![Spotify](https://ammyy9908.vercel.app//api/spotify)](https://open.spotify.com/user/ammyy9908)
+Aphelion | Perihelion 
+:-------------------------:|-------
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)<br>|<div style="text-align: justify">You should use the new version of the readme, [here](https://github.com/novatorem/novatorem)
 <h3 align="center">A passionate Full Stack Developer in MERN Stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammyy9908&label=Profile%20views&color=0e75b6&style=flat" alt="ammyy9908" /> </p>
