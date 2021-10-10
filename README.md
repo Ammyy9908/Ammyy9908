@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammyy9908&show_icons=true&locale=en&layout=compact" alt="ammyy9908" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammyy9908&show_icons=true&locale=en" alt="ammyy9908" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ammyy9908&theme=xcode">
