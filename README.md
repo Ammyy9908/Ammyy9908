@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31invlho6msdwvnucazsfxpqknp4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<br/>
+
+
 <h3 align="center">A passionate fullstack developer from India in MERN.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammyy9908&label=Profile%20views&color=0e75b6&style=flat" alt="ammyy9908" /> </p>
@@ -38,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammyy9908&" alt="ammyy9908" /></p>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31invlho6msdwvnucazsfxpqknp4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
