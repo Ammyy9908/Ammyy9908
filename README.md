@@ -1,1 +1,1 @@
-[![Spotify](https://ammyy9908.vercel.app/api/spotify)](https://open.spotify.com/user/31invlho6msdwvnucazsfxpqknp4)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31invlho6msdwvnucazsfxpqknp4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
