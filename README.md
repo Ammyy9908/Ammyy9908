@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
 
-- ⚡ Fun fact **I think I am moody.**
+- ⚡ Fun fact **I am moody.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
