@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammyy9908&" alt="ammyy9908" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pc3rnneliphvcml5c3zxkaq7gy&cover_image=true&theme=default)](https://github.com/ammyy9908/ammyy9908)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31invlho6msdwvnucazsfxpqknp4&cover_image=true&theme=default)](https://github.com/ammyy9908/ammyy9908)
 
 
