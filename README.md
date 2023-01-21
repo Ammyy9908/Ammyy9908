@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **swift language**
 
-- 👨‍💻 All of my projects are available at [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.live/)
-
 - 💬 Ask me about **react,express,mongodb**
 
 - 📫 How to reach me **sb78639@gmail.com**
 
-- 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
+- 📄 Know about my experiences [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.live/r)
 
 - ⚡ Fun fact **I am moody.**
 
