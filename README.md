@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **swift language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ammyy9908/](https://github.com/Ammyy9908/)
+- 👨‍💻 All of my projects are available at [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.live/)
 
 - 💬 Ask me about **react,express,mongodb**
 
