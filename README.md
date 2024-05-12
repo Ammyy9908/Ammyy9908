@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 
-<p aligh="center"><img src="https://media.licdn.com/dms/image/D5603AQFqJasHADe6xQ/profile-displayphoto-shrink_400_400/0/1715316455139?e=1721260800&v=beta&t=fnO2hyGUYVeWyb4FUoDax-f3tF91k_pqM7r3dFH1erA"/></p>
+<p aligh="center"><img src="https://media.licdn.com/dms/image/D5603AQFqJasHADe6xQ/profile-displayphoto-shrink_400_400/0/1715316455139?e=1721260800&v=beta&t=fnO2hyGUYVeWyb4FUoDax-f3tF91k_pqM7r3dFH1erA" style="border-radius:50%;"/></p>
 
 
 <h3 align="center">Backend Developer at KodNest | Expert in Golang & Microservices | Turning Ideas Into Scalable Code #Kubernetes #AWS #Docker #golang #microservices.</h3>
