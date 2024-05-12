@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 
 
-<h3 align="center">A passionate Backend Developer.</h3>
+<h3 align="center">Backend Developer at KodNest | Expert in Golang & Microservices | Turning Ideas Into Scalable Code #Kubernetes #AWS #Docker #golang #microservices.</h3>
 
 
 
