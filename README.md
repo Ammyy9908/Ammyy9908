@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 
 
-<h3 align="center">A passionate fullstack developer from India in MERN.</h3>
+<h3 align="center">A passionate Backend Developer.</h3>
 
 
 
