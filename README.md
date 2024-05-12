@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sb78639@gmail.com**
 
-- 📄 Know about my experiences [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.live/r)
+- 📄 Know about my experiences [https://www.sumitbighaniya.live/](https://www.sumitbighaniya.ninja)
 
 - ⚡ Fun fact **I am moody.**
 
