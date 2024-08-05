@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [js-pool](https://github.com/Ammyy9908/js-pool)
 
-- 🌱 I’m currently learning **swift language**
+- 🌱 I’m currently learning **Rust language**
 
 - 💬 Ask me about **react,express,mongodb**
 
