@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Backend Developer at KodNest | Expert in Golang & Microservices | Turning Ideas Into Scalable Code #Kubernetes #AWS #Docker #golang #microservices.</h3>
+<h3 align="center">Backend Developer  | Expert in Golang & Microservices | Turning Ideas Into Scalable Code #Kubernetes #AWS #Docker #golang #microservices.</h3>
 
 
 
