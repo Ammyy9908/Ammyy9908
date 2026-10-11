@@ -1,387 +1,142 @@
 <div align="center">
 
-# Hey, I'm Sumit 👋
+# <samp>sumit@github:~$ whoami</samp>
 
-### Backend Engineer • Distributed Systems • Platform Engineering
+### <samp>SUMIT KUMAR // BACKEND & PLATFORM ENGINEER</samp>
 
-**Software Engineer II @ Belden**
+**Software Engineer II @ Belden · Go · Kubernetes · AWS**
 
-Building reliable backend systems, developer tools, and open-source software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=3200&amp;pause=1200&amp;color=39FF14&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=65&amp;lines=%24+build+reliable+systems;%24+explore+networks+and+distributed+systems;%24+ship+developer+tools" alt="Terminal: build reliable systems; explore networks and distributed systems; ship developer tools" width="640" />
 
-<a href="https://www.sumitkumar.cloud">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/ammyy9908">
-  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sumitbighaniya">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=2BB67D&center=true&vCenter=true&width=650&lines=Building+systems+that+scale.;Go+%7C+Kubernetes+%7C+Distributed+Systems;Exploring+Networking+%26+Infrastructure;Shipping+open-source+projects." alt="Typing SVG"/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-sumitkumar.cloud-39FF14?style=flat-square&labelColor=0D1117)](https://www.sumitkumar.cloud)
+[![GitHub](https://img.shields.io/badge/GITHUB-ammyy9908-39FF14?style=flat-square&labelColor=0D1117)](https://github.com/ammyy9908)
+[![Email](https://img.shields.io/badge/EMAIL-get_in_touch-39FF14?style=flat-square&labelColor=0D1117)](mailto:sb78639@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <samp>$ cat about.txt</samp>
 
-I'm a **backend engineer with 3+ years of experience**, focused on
-building reliable, scalable, and maintainable systems.
+I'm a backend engineer building reliable APIs, cloud-native services, and tools that make developers' lives easier. At **Belden India**, I work on **EdgeService Gateway (ESGW) application orchestration**.
 
-Currently working at **Belden**, where I build and maintain backend
-services for application orchestration and cloud-native infrastructure.
+My day-to-day work centers on **Go, Kubernetes, and AWS**. Outside work, I explore networking, media tooling, peer-to-peer communication, and deployment infrastructure through personal projects.
 
-I enjoy understanding how systems work internally — from network
-protocols and distributed communication to container runtimes,
-deployment platforms, and developer tooling.
+```text
+sumit@github:~$ printenv ENGINEERING_FOCUS
 
-Outside work, I build products and open-source projects that
-solve problems I find interesting.
+BACKEND     = Go / microservices / API performance
+PLATFORM    = Kubernetes / AWS / containers / GitOps
+SYSTEMS     = concurrency / networking / async processing
+PRINCIPLES  = readable code / observable services / reliable delivery
+```
 
-- 🔭 Building **developer tools, networking software, and distributed systems**
-- 🦫 Primarily working with **Go**
-- ☁️ Experienced with **Kubernetes, AWS, Docker, and cloud infrastructure**
-- ⚡ Interested in **systems programming, networking, performance, and platform engineering**
-- 🧠 Currently exploring **distributed architectures, system design, and infrastructure automation**
-- 🤝 Open to collaborating on **interesting open-source projects**
-- 🌐 Portfolio: **[sumitkumar.cloud](https://www.sumitkumar.cloud)**
+## <samp>$ cat production-highlights.md</samp>
 
----
+Selected results from my production engineering work:
 
-## ⚡ Engineering Highlights
+| Signal | Result | Work behind it |
+| :--- | :--- | :--- |
+| `p99 API latency` | **60% reduction** | PostgreSQL query optimization and Redis caching |
+| `database CPU` | **70% → 20%** | More efficient queries and database access patterns |
+| `service availability` | **99.9%** | Monitoring, operational improvements, and proactive troubleshooting |
+| `orchestration APIs` | **15+ Go APIs** | Cloud-native application management |
 
-A few things I've worked on in production:
+I also work with **Prometheus, Grafana, and OpenTelemetry** for observability, and **Helm, ArgoCD, and CI/CD pipelines** for application deployment and lifecycle management.
 
-- **60% reduction in p99 API latency** through PostgreSQL query
-  optimization and Redis caching.
+## <samp>$ ls ~/projects/featured</samp>
 
-- **Reduced database CPU utilization from 70% to 20%**
-  by improving database access patterns and query efficiency.
+### <samp>01 / ClipPlay</samp>
 
-- **99.9% service availability** through operational improvements,
-  monitoring, and proactive troubleshooting.
+**Desktop-first media discovery and playback.** A dedicated media application exploring extraction, playback workflows, local processing, and integrations with external services.
 
-- **Built and maintained 15+ Go orchestration APIs**
-  supporting cloud-native application management.
+`focus: desktop architecture · media workflows · cross-platform development`
 
-- Implemented observability using **Prometheus, Grafana,
-  and OpenTelemetry**.
+[Visit ClipPlay →](https://clipplay.video)
 
-- Worked with **Kubernetes, Helm, ArgoCD, and CI/CD pipelines**
-  to support application deployment and lifecycle management.
+### <samp>02 / Unmark</samp>
 
----
+**Local media processing in the browser.** A privacy-focused project exploring image and video operations on the user's device, reducing the need to send media to a server.
 
-## 🚀 Featured Projects
+`focus: browser APIs · client-side execution · image and video processing`
 
-I enjoy building software that involves challenging engineering
-problems — whether that's networking, distributed communication,
-media processing, or developer infrastructure.
+[Source →](https://github.com/unmarkapp/unmark) · [Website →](https://www.unmark.ink)
 
-### 🎬 ClipPlay
-**A desktop-first media application**
+### <samp>03 / goyt</samp>
 
-[![Website](https://img.shields.io/badge/Website-clipplay.video-2BB67D?style=flat-square)](https://clipplay.video)
+**A Go-native media extraction and download toolkit.** An experimental project inspired by yt-dlp, exploring extensible extractors, stream selection, download orchestration, and FFmpeg post-processing.
 
-A desktop-first media experience exploring how media discovery,
-playback, and device-level interactions can be brought together
-in a dedicated application.
+`stack: Go · HTTP · FFmpeg`
 
-**Engineering focus:**
-- Desktop application architecture
-- Media extraction and playback workflows
-- Local processing and external service integration
-- Cross-platform application development
+`focus: retries · cancellation · resumable downloads · CLI tooling`
 
-**Explore:** [clipplay.video](https://clipplay.video)
+[Source →](https://github.com/Ammyy9908/goyt)
 
----
+### <samp>04 / P2PShare</samp>
 
-### 🧹 Unmark
-**Privacy-focused local media processing**
+**Peer-to-peer file transfer across devices.** A networking project exploring encrypted communication, peer connectivity, and chunked, resumable transfers so interrupted work can continue.
 
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/unmarkapp/unmark)
-[![Website](https://img.shields.io/badge/Website-unmark.ink-2BB67D?style=flat-square)](https://www.unmark.ink)
+`stack: Go · Swift · WebRTC · TCP · AES-GCM`
 
-A browser-based media processing project focused on performing
-supported image and video operations locally.
+`focus: peer discovery · ICE / STUN / TURN · transfer state management`
 
-Explores how modern browser capabilities can reduce unnecessary
-server-side processing while preserving user privacy.
+### <samp>05 / CrossKVM</samp>
 
-**Engineering focus:**
-- Client-side media processing
-- Browser APIs and local execution
-- Privacy-conscious architecture
-- Image and video processing workflows
+**Share a keyboard and mouse across computers on a LAN.** A cross-platform project exploring low-latency input forwarding, device discovery, connection liveness, and recovery after disconnects.
 
-**Explore:** [unmark.ink](https://www.unmark.ink)
+`stack: Go · TCP · UDP · macOS · Windows`
 
----
+`focus: input handling · peer discovery · reconnection · latency instrumentation`
 
-### 🦫 goyt
-**A Go-native media extraction and downloading toolkit**
+[Source →](https://github.com/Ammyy9908/crosskvm)
 
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/ammyy9908/goyt)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+### <samp>06 / Runway / Shipd</samp>
 
-An experimental media extraction toolkit written in Go,
-inspired by the architecture of yt-dlp.
+**A Go-native, self-hosted deployment platform.** Inspired by Vercel, this project explores the path from source code to running containers: webhook-triggered builds, background jobs, and deployment orchestration with `hookd` and `buildd` services.
 
-Designed to explore how media extractors, download orchestration,
-stream selection, and post-processing can be implemented
-using Go.
+`stack: Go · Gin · PostgreSQL / pgx · Redis · Asynq · Docker`
 
-**Engineering focus:**
-- Extensible extractor architecture
-- Resumable downloads, retries, and cancellation
-- Media format discovery and stream selection
-- FFmpeg integration for merging and remuxing
-- CLI tooling and integration testing
-- Exploration of streaming protocols
-
-**Stack:** Go, HTTP, FFmpeg
-
-**Repository:** [github.com/ammyy9908/goyt](https://github.com/ammyy9908/goyt)
-
----
-
-### 🔍 GoReview
-**An AI-assisted code review engine**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Code_Review-blueviolet?style=flat-square)
-
-A Go-based code review project exploring how automated review
-systems understand code changes and generate useful feedback.
-
-Inspired by modern AI-assisted review tools, with an emphasis
-on building a modular review pipeline.
-
-**Engineering focus:**
-- Git repository and diff analysis
-- Context-aware code inspection
-- LLM integration and prompt orchestration
-- Structured review feedback
-- Extensible review pipelines
-
-**Stack:** Go, Git, LLM APIs
-
----
-
-### 🔐 P2PShare
-**Secure peer-to-peer file transfer across devices**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-Networking-333333?style=flat-square)
-
-A peer-to-peer file transfer system designed to move files
-between devices with encrypted communication.
-
-Explores reliable transfer protocols, device connectivity,
-and resuming interrupted transfers without restarting
-the entire operation.
-
-**Engineering focus:**
-- Peer discovery and connection establishment
-- WebRTC, ICE, STUN, and TURN
-- End-to-end encrypted communication
-- Chunked and resumable transfers
-- Transfer state management
-- Cross-platform networking
-
-**Stack:** Go, Swift, WebRTC, TCP, AES-GCM
-
----
-
-### 🖥️ CrossKVM
-**Cross-platform keyboard and mouse sharing over a LAN**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FUDP-2BB67D?style=flat-square)
-
-A cross-platform KVM software project that enables computers
-on the same network to share keyboard and mouse input.
-
-Built to explore low-latency input forwarding, peer discovery,
-and resilient device-to-device communication.
-
-**Engineering focus:**
-- Cross-platform input handling
-- TCP-based input transport
-- UDP-based peer discovery
-- Device identity and liveness detection
-- Automatic reconnection with exponential backoff
-- Latency instrumentation and monitoring
-
-**Stack:** Go, TCP, UDP, macOS, Windows
-
----
-
-### ☁️ Runway / Shipd
-**A self-hosted deployment platform**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-A Go-native deployment platform inspired by modern
-developer platforms such as Vercel.
-
-Explores the infrastructure required to transform source code
-into running applications through automated build and
-deployment workflows.
-
-**Engineering focus:**
-- Build and deployment orchestration
-- Background job processing
-- Container lifecycle management
-- Webhook-driven automation
-- Deployment state tracking
-- Developer platform architecture
-
-**Stack:** Go, Gin, PostgreSQL, Redis, Asynq, Docker
-
----
+`focus: build pipelines · container lifecycle · deployment state tracking`
 
 <details>
-<summary><b>📦 More Engineering Projects</b></summary>
+<summary><samp>$ ls ~/projects/more</samp></summary>
 
-<br/>
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **compiled0** | Container-isolated code execution API exploring program compilation and runtime isolation. | Go, Docker, Redis |
-| **go-notifier** | Distributed notification service exploring asynchronous message delivery. | Go |
-| **n8n mini-engine** | Lightweight workflow execution engine with dependency resolution and topological ordering. | TypeScript |
-| **Lask** | iOS application exploring native interface development and reusable SwiftUI components. | Swift, SwiftUI |
+| Project | What I'm exploring | Stack |
+| :--- | :--- | :--- |
+| [**compiled0**](https://github.com/Ammyy9908/compiled0) | Containerized compilation and code execution through an API | Go, Docker, Redis |
+| [**go-notifier**](https://github.com/Ammyy9908/go-notifier) | Multi-channel notifications with prioritization, retries, and fault tolerance | Go |
+| **n8n mini-engine** | Workflow execution with dependency resolution, topological ordering, and node executors | TypeScript |
+| **Lask** | Native iOS interfaces, onboarding, and reusable UI components | Swift, SwiftUI |
 
 </details>
 
----
+## <samp>$ cat stack.conf</samp>
 
-## 🛠️ Tech Stack
+```ini
+[languages]
+primary       = Go
+also          = Python, TypeScript, JavaScript, Swift
 
-### Languages
+[backend_and_data]
+services      = Gin, REST APIs, asynchronous jobs
+databases     = PostgreSQL, MongoDB
+messaging     = Redis, RabbitMQ, AWS SNS/SQS
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,swift,bash&theme=dark" />
-</p>
+[cloud_and_platform]
+infrastructure = AWS, EKS, EC2, ECR, Docker, Kubernetes
+delivery       = ArgoCD, Helm, Bitbucket Pipelines, Jenkins, GitLab CI
+observability  = Prometheus, Grafana, OpenTelemetry
 
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" />
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,linux&theme=dark" />
-</p>
-
-### DevOps & Observability
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,prometheus,grafana&theme=dark" />
-</p>
-
-**Also working with:** ArgoCD, Helm, OpenTelemetry, AWS EKS,
-SNS/SQS, GitOps, FFmpeg, and WebRTC.
-
----
-
-## 🧠 Areas of Interest
-
-```text
-Backend Engineering
- ├── Go & Concurrent Programming
- ├── REST APIs & Microservices
- ├── Database Performance
- └── Reliability & Observability
-
-Distributed Systems
- ├── Network Protocols
- ├── Peer-to-Peer Communication
- ├── Asynchronous Processing
- └── Fault Tolerance
-
-Platform Engineering
- ├── Kubernetes & Containers
- ├── CI/CD & GitOps
- ├── Developer Tooling
- └── Infrastructure Automation
-
-Systems & Open Source
- ├── CLI Applications
- ├── Media Processing
- ├── Cross-Platform Networking
- └── Performance Optimization
+[learning]
+current       = Spring Boot, Terraform, infrastructure as code
 ```
 
----
+## <samp>$ ./connect</samp>
 
-## 📊 GitHub Activity
+Let's talk about **Go microservices, Kubernetes internals, distributed systems, CI/CD, or developer tooling**. I'm open to collaborating on interesting open-source projects.
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ammyy9908&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  height="170"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammyy9908&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  height="170"
-  alt="Top Languages"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=ammyy9908&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+[Portfolio](https://www.sumitkumar.cloud) · [LinkedIn](https://linkedin.com/in/sumitbighaniya) · [Email](mailto:sb78639@gmail.com) · [Public repositories](https://github.com/ammyy9908?tab=repositories)
 
 ---
 
-## 🤝 Let's Connect
-
-I enjoy discussing backend architecture, distributed systems,
-developer tools, and interesting open-source ideas.
-
-If you're working on something interesting, feel free to reach out.
-
-<div align="center">
-
-<a href="https://www.sumitkumar.cloud">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sumitbighaniya">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sb78639@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ammyy9908">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ammyy9908&style=flat-square&color=2BB67D" alt="Profile Views"/>
-
-<br/>
-
-**Build things. Break things. Understand things. Improve things.**
-
-</div>
+<p align="center"><samp>Build. Observe. Debug. Improve. Repeat.<br />sumit@github:~$ █</samp></p>
